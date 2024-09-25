@@ -19,9 +19,9 @@
 
 
 
-- 🔭 I’m currently working on **Python, Sklearn, PyTorch, Docker, Kubernetes**
+- 🔭 working on **Python, Sklearn, PyTorch, Docker, Kubernetes**
 
-- 🌱 I’m currently learning **AWS, AI/ML, Linux, Next.js**
+- 🌱 learning **AWS, AI/ML, Linux, Next.js**
 
 - 💬 Ask me about **Node.js, React, AI/ML, Linux, DSA, AWS, Docker, Kubernetes**
 
