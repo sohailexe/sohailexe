@@ -33,7 +33,7 @@
 ## Life Update
 - [x] Born
 - [x] Get a job
-- [ ] Get Married
+- [x] Get Married
 - [ ] Have children
 - [ ] Die
 
